@@ -1,8 +1,8 @@
 class Abr < Formula
   desc "Portable parallel AI agent launcher using git worktrees + beads"
   homepage "https://github.com/carlfranzon/agent-beads-runner"
-  url "https://github.com/carlfranzon/agent-beads-runner/archive/refs/tags/v0.2.7.tar.gz"
-  sha256 "a1171a86d39cd43eeb6fa226d2f42bac27789e492002ccf7ed358917130aadb0"
+  url "https://github.com/carlfranzon/agent-beads-runner/archive/refs/tags/v0.2.8.tar.gz"
+  sha256 "7c35021710100f4c0f3af56551e470e317c95c0f1d61306bea4bf22593d083d4"
   license "MIT"
 
   depends_on "git"
